@@ -16,6 +16,9 @@ If there’s no custom meta description set, Contao will generate the meta descr
 ## Contribution
 Feel free to use this module in your own projects. Please tell us your improvements and/or make a pull request.
 
+## Contact
+http://www.kreativundsoehne.de
+
 ## License
 The MIT License (MIT)
 
